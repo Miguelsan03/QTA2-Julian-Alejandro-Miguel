@@ -68,7 +68,7 @@
             app:boxStrokeErrorColor="@color/verde"
             app:boxStrokeWidth="2dp"
             app:boxStrokeWidthFocused="2dp"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="70dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/instrucciones3TextView">
